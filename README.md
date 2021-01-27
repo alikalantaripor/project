@@ -6,5 +6,5 @@
 * [scenario_work schedule management ][2]
 
 
-  [1]: https://github.com/alikalantaripor/work_schedule/tree/master/Senario
-  [2]: https://github.com/alikalantaripor/work_schedule/tree/master/Senario
+  [1]: https://github.com/alikalantaripor/work_schedule/blob/master/Senario/scenario.md
+  [2]: https://github.com/alikalantaripor/work_schedule/blob/master/Senario/scenario.md
