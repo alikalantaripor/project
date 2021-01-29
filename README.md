@@ -7,6 +7,16 @@
 * [UseCase Diagram][1]
 * [Activity Diagram][2]
 * [ Sequence Diagram][3]
+---
+# Developers
+| ID | First & Last Name |
+|----|-------------------|
+|   [@mahsa_ui][1] | mahsa askari      |
+|  [@ alikalantaripor][2] | ali  kalantaripor      |
+
+  [1]: https://github.com/mahsa-ui
+  [2]: https://github.com/alikalantaripor
+
 
   [1]: https://github.com/alikalantaripor/work_schedule/blob/master/Senario/scenario.md
   [2]: https://github.com/alikalantaripor/work_schedule/blob/master/design/Activity1.md
