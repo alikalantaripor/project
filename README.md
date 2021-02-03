@@ -1,12 +1,14 @@
 # work_schedule
 ##### This project is intended for users to be able to manage their applications, so users can easily log in to the site and schedule their work. 
 ---
- 
+# Analysis and Design of the project
 * [Scenario_management][1]
 * [Scenario_user][2]
 * [UseCase][3]
 * [sequence][4]
 * [Activity][5]
+
+---
 ---
 # Developers
 | ID | First & Last Name |
