@@ -19,7 +19,7 @@
 
 
   [1]: https://github.com/alikalantaripor/work_schedule/blob/master/Senario/scenario.md
-  [2]: https://github.com/alikalantaripor/work_schedule/blob/master/design/Activity1.md
+  [2]: https://github.com/alikalantaripor/work_schedule/blob/master/documentiation/Activity1.md
   [3]:https://github.com/alikalantaripor/work_schedule/blob/master/documentiation/sequence.md
 
 
