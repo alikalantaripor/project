@@ -1,0 +1,7 @@
+@import "bootstrap.min.css";
+@import "bootstrap-rtl.min.css";
+
+body{
+    direction: rtl !important;
+    font-family: Vazir;
+}
